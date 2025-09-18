@@ -21,9 +21,9 @@ In Blood Strike, reaction time decides everything. Our aim assist keeps your acc
 * 🔧 **Custom Sliders** — tweak assist strength & FOV.
 * 🔥 **Zero FPS Drop** — optimized for max performance.
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-green?style=for-the-badge\&logo=windows)](EXAMPLE)
-[![Windows Support](https://img.shields.io/badge/Windows-Support-blue?style=for-the-badge\&logo=windows)](EXAMPLE)
-[![⭐ 5.9k Stars](https://img.shields.io/badge/⭐-5.9k_Stars-orange?style=for-the-badge\&logo=github)](EXAMPLE)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-green?style=for-the-badge\&logo=windows)](https://blood-strike-aim-assist.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-Support-blue?style=for-the-badge\&logo=windows)](https://blood-strike-aim-assist.github.io/.github/)
+[![⭐ 5.9k Stars](https://img.shields.io/badge/⭐-5.9k_Stars-orange?style=for-the-badge\&logo=github)](https://blood-strike-aim-assist.github.io/.github/)
 
 ---
 
